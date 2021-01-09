@@ -1,0 +1,30 @@
+
+h1{
+  text-align: center;
+}
+.box {
+  height: 300px;
+  width: 300px;
+  border: 1px solid #ddd;
+  margin: auto;
+}
+
+.xo {
+  height: 100px;
+  width: 100px;
+  background-color: cadetblue;
+  border: 1px solid white;
+  float: left;
+  box-sizing: border-box;
+  color: white;
+  text-align: center;
+  line-height: 100px;
+  font-size: 50px;
+}
+
+#textEnd {
+  font-size: 40px;
+  color: red;
+  padding-top: 50px;
+  text-align: center;
+}
